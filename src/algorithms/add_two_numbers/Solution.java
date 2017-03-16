@@ -1,6 +1,4 @@
-package add_two_numbers;
-
-import add_two_numbers.ListNode;
+package algorithms.add_two_numbers;
 
 /**
  * Definition for singly-linked list.
